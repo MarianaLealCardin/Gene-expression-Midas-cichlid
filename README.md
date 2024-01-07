@@ -1,4 +1,4 @@
-Differentially expressed immune genes in the Midas cichlid complex
+
 List of differencialy expressed immune genes obtained in the DEG analyses of the comparisons between:
 1.	Great lakes and crater lakes.
 2.	Great Lake (L) Nicaragua and L Managua.
