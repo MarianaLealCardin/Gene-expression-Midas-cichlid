@@ -1,0 +1,3 @@
+gene_id;log2FoldChange;annotation
+MSTRG.16363;-227.489.277.006.555;Protein mono-ADP-ribosyltransferase PARP9 {ECO:0000305}
+MSTRG.16356;-25.040.271.417.487;O-acetyl-ADP-ribose deacetylase {ECO:0000255|HAMAP-Rule:MF_01205}

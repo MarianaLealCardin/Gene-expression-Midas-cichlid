@@ -1,0 +1,8 @@
+gene_id;log2FoldChange;annotation;
+MSTRG.16363;-249.096.616.893.961;Protein mono-ADP-ribosyltransferase PARP9 {ECO:0000305};
+MSTRG.54338;316.322.036.002.325;Immunoglobulin kappa constant {ECO:0000250|UniProtKB:P01834};
+MSTRG.56045;-643.899.417.953.689;Tumor necrosis factor receptor superfamily member 14;
+MSTRG.16356;-544.253.036.482.064;Protein mono-ADP-ribosyltransferase PARP9 {ECO:0000305}; O-acetyl-ADP-ribose deacetylase {ECO:0000255|HAMAP-Rule:MF_01205}
+MSTRG.55088;-304.879.158.876.369;CD99 antigen-like protein 2;
+MSTRG.38265;576.158.679.912.094;Liver-expressed antimicrobial peptide 2;
+MSTRG.14351;558.363.564.375.527;Pteroicidin-alpha {ECO:0000303|PubMed:29108968};

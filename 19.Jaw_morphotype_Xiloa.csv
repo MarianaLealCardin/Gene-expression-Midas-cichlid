@@ -1,0 +1,21 @@
+gene_id;log2FoldChange;annotation;;;;
+MSTRG.16363;-257.723.616.448.127;Protein mono-ADP-ribosyltransferase PARP9 {ECO:0000305};;;;
+MSTRG.16356;-580.294.033.732.891;Protein mono-ADP-ribosyltransferase PARP9 {ECO:0000305}; O-acetyl-ADP-ribose deacetylase {ECO:0000255|HAMAP-Rule:MF_01205};;;
+MSTRG.50568;226.233.297.565.683;Zinc metalloproteinase/disintegrin; Disintegrin and metalloproteinase domain-containing protein 18; Zinc metalloproteinase-disintegrin-like crotastatin; Disintegrin and metalloproteinase domain-containing protein 8;
+MSTRG.24836;150.993.561.322.319;Dual specificity protein phosphatase 14; Dual specificity protein phosphatase 1 {ECO:0000305};;;
+MSTRG.29020;0.908924880641057;Paired amphipathic helix protein Sin3a; Tyrosine-protein phosphatase non-receptor type 9; Tyrosine phosphatase H2;;
+MSTRG.1766;101.257.712.542.338;Paired amphipathic helix protein Sin3a;;;;
+MSTRG.2269;259.297.012.803.756;Death-associated protein kinase 3; Death-associated protein kinase 2;;;
+MSTRG.6598;-186.192.463.769.054;Endoribonuclease ZC3H12A {ECO:0000305};;;;
+MSTRG.32253;217.289.826.776.529;Cyclic GMP-AMP synthase {ECO:0000250|UniProtKB:Q8N884}; Cyclic GMP-AMP synthase {ECO:0000303|PubMed:23258413};;;
+MSTRG.46655;157.675.024.058.286;Slit homolog 2 protein;;;;
+MSTRG.16361;-234.791.164.123.457;Protein mono-ADP-ribosyltransferase PARP9 {ECO:0000305}; Protein mono-ADP-ribosyltransferase PARP14 {ECO:0000305}; Uncharacterized protein STK_23830;;
+MSTRG.23324;-0.800653910257897;eIF-2-alpha kinase GCN2 {ECO:0000250|UniProtKB:Q9QZ05}; Probable serine/threonine-protein kinase nek2; Histidine--tRNA ligase; Serine/threonine-protein kinase Nek6; eIF-2-alpha kinase GCN2 {ECO:0000305}
+MSTRG.7949;112.507.318.985.033;Snake venom metalloproteinase ACLF; Disintegrin and metalloproteinase domain-containing protein 28; Zinc metalloproteinase-disintegrin BlatH1; Disintegrin and metalloproteinase domain-containing protein 8;
+MSTRG.31128;0.59834373808535;Triple functional domain protein; Rho guanine nucleotide exchange factor 25;;;
+MSTRG.36175;-0.599963312172234;Mitochondrial import receptor subunit TOM70 {ECO:0000305};;;;
+MSTRG.11436;150.101.852.581.882;SLAM family member 8;;;;
+MSTRG.30762;0.77304374569161;;;;;
+MSTRG.15516;0.691730109651401;Peptidyl-prolyl cis-trans isomerase-like 4;;;;
+MSTRG.47175;13.081.565.553.315;Dual specificity phosphatase 21; Dual specificity protein phosphatase 1 {ECO:0000305}; Dual specificity protein phosphatase 5;;
+MSTRG.3219;185.387.480.122.177;Interleukin-12 subunit beta;;;;

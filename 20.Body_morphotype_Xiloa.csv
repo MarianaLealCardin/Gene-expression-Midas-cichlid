@@ -1,0 +1,5 @@
+gene_id;log2FoldChange;annotation;
+MSTRG.16363;-244.620.716.963.411;Protein mono-ADP-ribosyltransferase PARP9 {ECO:0000305};
+MSTRG.6537;-277.116.374.715.269;Apolipoprotein A-IV {ECO:0000250|UniProtKB:P06727}; Apolipoprotein A-I
+MSTRG.16356;-445.248.238.333.446;Protein mono-ADP-ribosyltransferase PARP9 {ECO:0000305}; O-acetyl-ADP-ribose deacetylase {ECO:0000255|HAMAP-Rule:MF_01205}
+MSTRG.14881;158.271.535.362.484;Transforming growth factor beta-3 proprotein;

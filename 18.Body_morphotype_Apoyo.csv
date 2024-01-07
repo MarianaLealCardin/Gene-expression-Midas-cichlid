@@ -1,0 +1,17 @@
+gene_id;log2FoldChange;annotation;;;;;;;;;;;;;;;;;;
+MSTRG.55612;-22.865.351.849.063;Programmed cell death 1 ligand 1;;;;;;;;;;;;;;;;;;
+MSTRG.38396;-765.290.472.543.744;Carcinoembryonic antigen-related cell adhesion molecule 2; Leukocyte immunoglobulin-like receptor subfamily A member 2;;;;;;;;;;;;;;;;;
+MSTRG.38648;-36.448.352.344.803;Interleukin-8;;;;;;;;;;;;;;;;;;
+MSTRG.37330;391.270.840.728.967;Low affinity immunoglobulin gamma Fc region receptor II;;;;;;;;;;;;;;;;;;
+MSTRG.2851;-250.184.041.018.492;Hexokinase-1 {ECO:0000305}; Hexokinase HKDC1 {ECO:0000305};;;;;;;;;;;;;;;;;
+MSTRG.7469;538.728.973.374.537;C-X-C motif chemokine 13; C-X-C motif chemokine 10;;;;;;;;;;;;;;;;;
+MSTRG.37308;193.702.826.288.791;Low affinity immunoglobulin gamma Fc region receptor II;;;;;;;;;;;;;;;;;;
+MSTRG.15180;-475.225.223.286.912;Vascular endothelial growth factor A-A; Placenta growth factor; Vascular endothelial growth factor A;;;;;;;;;;;;;;;;
+MSTRG.41584;148.535.015.629.286;Rano class II histocompatibility antigen, B alpha chain; H-2 class II histocompatibility antigen, A-K alpha chain; H-2 class II histocompatibility antigen, A-Q alpha chain;;;;;;;;;;;;;;;;
+MSTRG.46418;-31.922.906.136.463;Polyunsaturated fatty acid 5-lipoxygenase {ECO:0000305}; Polyunsaturated fatty acid lipoxygenase ALOX15B {ECO:0000305}; Arachidonate 12-lipoxygenase, 12R-type {ECO:0000305};;;;;;;;;;;;;;;;
+MSTRG.21453;189.237.493.427.591;CMRF35-like molecule 5 {ECO:0000303|PubMed:14662855}; CMRF35-like molecule 2; CMRF35-like molecule 7;;;;;;;;;;;;;;;;
+MSTRG.39722;-61.363.820.295.241;Butyrophilin-like protein 2;;;;;;;;;;;;;;;;;;
+MSTRG.6398;-290.569.201.465.983;Glyceraldehyde-3-phosphate dehydrogenase {ECO:0000250|UniProtKB:P00355}; Glyceraldehyde-3-phosphate dehydrogenase; Glyceraldehyde-3-phosphate dehydrogenase 2 {ECO:0000303|PubMed:10799476};;;;;;;;;;;;;;;;
+MSTRG.39834;-242.968.731.672.984;Zinc finger protein 678; Zinc finger protein 70; RNA-directed DNA polymerase from mobile element jockey; Zinc finger protein 271; Zinc finger protein 23; Zinc finger protein 723 {ECO:0000305}; Zinc finger protein ZFP2; Zinc finger protein 595; Zinc finger protein 480; Zinc finger protein 83; Zinc finger protein 16; Zinc finger and SCAN domain-containing protein 2; Zinc finger protein 660; Zinc finger protein 525; Zinc finger protein 708 {ECO:0000305}; Zinc finger protein 253; Zinc finger protein 493; Putative zinc finger protein 702; Zinc finger protein 664
+MSTRG.21027;122.434.137.353.268;cAMP-specific 3',5'-cyclic phosphodiesterase 4D; Gamma-interferon-inducible lysosomal thiol reductase {ECO:0000303|PubMed:22982335}; cAMP-specific 3',5'-cyclic phosphodiesterase 4D {ECO:0000305};;;;;;;;;;;;;;;;
+MSTRG.37220;124.916.802.144.394;Fc receptor-like protein 1; High affinity immunoglobulin epsilon receptor subunit alpha; Putative high affinity immunoglobulin gamma Fc receptor IB; Low affinity immunoglobulin gamma Fc region receptor III; Low affinity immunoglobulin gamma Fc region receptor II;;;;;;;;;;;;;;
