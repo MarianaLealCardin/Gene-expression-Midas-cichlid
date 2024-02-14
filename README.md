@@ -20,3 +20,6 @@ List of differencialy expressed immune genes obtained in the DEG analyses of the
 18.	Body morphotypes in CL Apoyo.
 19.	Jaw morphotypes in CL Xiloá.
 20.	Body morphotypes in CL Xiloá.
+
+List of immune genes that appear more than one time in the lake vs lake comparisons:
+- Immune_genes_lake_comparisons.
