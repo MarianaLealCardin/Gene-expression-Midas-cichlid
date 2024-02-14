@@ -1,0 +1,30 @@
+gene_id;log2FoldChange;annotation;Upregulated in;Comparison against
+MSTRG.1327;-1.838914516;C5a anaphylatoxin chemotactic receptor 1;Asososca and Nicaragua;Managua
+MSTRG.2236;0.935955577;FAS-associated death domain protein {ECO:0000303|PubMed:7538907};Asososca and Nicaragua;Managua
+MSTRG.19616;0.926557041;ATP-dependent RNA helicase A {ECO:0000305};Managua;Asososca and Nicaragua
+MSTRG.17458;-3.084348627;CD209 antigen-like protein A;Managua;Asososca and Nicaragua
+MSTRG.17435;0.874242311;Integrin alpha-4;Managua;Asososca and Nicaragua
+MSTRG.10053;0.780128109;NAD-dependent protein deacetylase sirtuin-1;Masaya and Managua;Nicaragua
+MSTRG.14449;1.345055261;Thrombospondin-1;Masaya and Managua;Nicaragua
+MSTRG.4176;-1.438301815;GRB2-associated-binding protein 3;Nicaragua;Masaya and Managua
+MSTRG.45548;-1.212206496;Homeobox protein Nkx-2.3;Nicaragua;Masaya and Managua
+MSTRG.17376;-1.050845561;N-arachidonyl glycine receptor;Nicaragua;Masaya and Managua
+MSTRG.40967;-0.491205951;Signal transducer and activator of transcription 5B;Nicaragua;Masaya and Managua
+MSTRG.55088;189,189,734,074,211;CD99 antigen-like protein 2;Xiloá and Nicaragua;Apoyo
+MSTRG.29426;-0.742114807;CD81 antigen;;
+MSTRG.7469;-4.089556712;C-X-C motif chemokine 13;;
+MSTRG.16363;24.12588669;Protein mono-ADP-ribosyltransferase PARP9 {ECO:0000305};;
+MSTRG.31691;-0.915643394;Tyrosine-protein phosphatase non-receptor type 2;;
+MSTRG.47740;-209,547,977,257,349;C-C chemokine receptor type 7;;
+MSTRG.20975;-117,018,844,884,149;C-C motif chemokine 2;;
+MSTRG.52358;-1.01962374;EMILIN-2;;
+MSTRG.17379;-0.878953139;G-protein coupled receptor 183;;
+MSTRG.24958;1.609782948;Hepatitis A virus cellular receptor 2;;
+MSTRG.38528;-2.527076426;High affinity immunoglobulin gamma Fc receptor I;;
+MSTRG.36978;6.275089645;Low affinity immunoglobulin gamma Fc region receptor II;;
+MSTRG.37349;-177,485,332,954,481;Low affinity immunoglobulin gamma Fc region receptor III;;
+MSTRG.55415;37,031,433,008,441;NACHT, LRR and PYD domains-containing protein 10;;
+MSTRG.33160;1.753762965;NACHT, LRR and PYD domains-containing protein 12;;
+MSTRG.41584;-0.95876985151374;Rano class II histocompatibility antigen, B alpha chain;;
+MSTRG.4395;-1.430427551;Ras-related protein Rab-34;;
+MSTRG.36546;-0.698669446790531;Type IV inositol polyphosphate 5-phosphatase 11 {ECO:0000303|PubMed:15181205};;
