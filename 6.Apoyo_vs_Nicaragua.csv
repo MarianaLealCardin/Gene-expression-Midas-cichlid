@@ -1,8 +1,9 @@
-gene_id;log2FoldChange;annotation;
-MSTRG.16363;-249.096.616.893.961;Protein mono-ADP-ribosyltransferase PARP9 {ECO:0000305};
-MSTRG.54338;316.322.036.002.325;Immunoglobulin kappa constant {ECO:0000250|UniProtKB:P01834};
-MSTRG.56045;-643.899.417.953.689;Tumor necrosis factor receptor superfamily member 14;
-MSTRG.16356;-544.253.036.482.064;Protein mono-ADP-ribosyltransferase PARP9 {ECO:0000305}; O-acetyl-ADP-ribose deacetylase {ECO:0000255|HAMAP-Rule:MF_01205}
-MSTRG.55088;-304.879.158.876.369;CD99 antigen-like protein 2;
-MSTRG.38265;576.158.679.912.094;Liver-expressed antimicrobial peptide 2;
-MSTRG.14351;558.363.564.375.527;Pteroicidin-alpha {ECO:0000303|PubMed:29108968};
+Differential gene expression between Apoyo (positive log2FoldChange) and Nicaragua (negative log2FoldChange) ;;;;;;;;
+gene_id;baseMean;log2FoldChange;lfcSE;stat;pvalue;padj;annotation;
+MSTRG.16363;645.257.683.340.202;-249.096.616.893.961;317.321.051.587.465;-784.998.712.338.192;4,16E-01;2,53E+03;Protein mono-ADP-ribosyltransferase PARP9 {ECO:0000305};
+MSTRG.54338;429.408.007.499.673;316.322.036.002.325;0.514892260223196;614.346.068.952.766;8,07E+04;1,23E+08;Immunoglobulin kappa constant {ECO:0000250|UniProtKB:P01834};
+MSTRG.56045;866.475.143.464.167;-643.899.417.953.689;105.822.166.495.668;-60.847.310.093.585;1,17E+05;1,64E+08;Tumor necrosis factor receptor superfamily member 14;
+MSTRG.16356;587.702.634.559.542;-544.253.036.482.064;0.995368998291693;-54.678.519.967.584;4,56E+06;4,50E+09;Protein mono-ADP-ribosyltransferase PARP9 {ECO:0000305}; O-acetyl-ADP-ribose deacetylase {ECO:0000255|HAMAP-Rule:MF_01205}
+MSTRG.55088;35.626.675.295.416;-304.879.158.876.369;0.661189202933562;-461.107.285.968.497;4,01E+08;0.00182671816779203;CD99 antigen-like protein 2;
+MSTRG.38265;881.626.434.006.684;576.158.679.912.094;128.737.261.862.812;447.546.166.179.978;7,62E+08;0.00323426505846184;Liver-expressed antimicrobial peptide 2;
+MSTRG.14351;434.126.159.239.394;558.363.564.375.527;13.300.799.438.063;419.796.995.643.474;2,69E+09;0.0080530601646208;Pteroicidin-alpha {ECO:0000303|PubMed:29108968};

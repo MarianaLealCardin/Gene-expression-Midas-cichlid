@@ -1,3 +1,4 @@
-gene_id;log2FoldChange;annotation
-MSTRG.16363;-227.489.277.006.555;Protein mono-ADP-ribosyltransferase PARP9 {ECO:0000305}
-MSTRG.16356;-25.040.271.417.487;O-acetyl-ADP-ribose deacetylase {ECO:0000255|HAMAP-Rule:MF_01205}
+Differential gene expression between great (positive log2FoldChange) and crater (negative log2FoldChange) lakes;;;;;;;
+gene_id;baseMean;log2FoldChange;lfcSE;stat;pvalue;padj;annotation
+MSTRG.16363;120.924.191.338.904;-227.489.277.006.555;333.526.122.698.321;-682.073.341.560.482;9,06E+02;3,10E+06;Protein mono-ADP-ribosyltransferase PARP9 {ECO:0000305}
+MSTRG.16356;202.425.475.776.343;-25.040.271.417.487;0.5927463767919;-422.444.951.127.522;2,40E+09;0.00403872226394674;O-acetyl-ADP-ribose deacetylase {ECO:0000255|HAMAP-Rule:MF_01205}

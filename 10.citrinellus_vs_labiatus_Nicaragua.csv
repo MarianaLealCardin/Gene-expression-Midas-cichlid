@@ -1,3 +1,4 @@
-gene_id;log2FoldChange;annotation;
-MSTRG.16363;255.884.551.592.428;Protein mono-ADP-ribosyltransferase PARP9 {ECO:0000305};
-MSTRG.16356;542.361.765.783.393;Protein mono-ADP-ribosyltransferase PARP9 {ECO:0000305}; O-acetyl-ADP-ribose deacetylase {ECO:0000255|HAMAP-Rule:MF_01205}
+Differential gene expression between A. citrinellus (positive log2FoldChange) and A. labiatus (negative log2FoldChange) from L Nicaragua;;;;;;;;
+gene_id;baseMean;log2FoldChange;lfcSE;stat;pvalue;padj;annotation;
+MSTRG.16363;860.343.577.786.936;255.884.551.592.428;30.267.207.973.937;845.418.420.532.114;2,81E-03;5,07E+01;Protein mono-ADP-ribosyltransferase PARP9 {ECO:0000305};
+MSTRG.16356;771.975.215.758.905;542.361.765.783.393;0.984016674287696;551.171.316.457.615;3,55E+06;4,81E+09;Protein mono-ADP-ribosyltransferase PARP9 {ECO:0000305}; O-acetyl-ADP-ribose deacetylase {ECO:0000255|HAMAP-Rule:MF_01205}

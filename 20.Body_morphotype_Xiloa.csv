@@ -1,5 +1,6 @@
-gene_id;log2FoldChange;annotation;
-MSTRG.16363;-244.620.716.963.411;Protein mono-ADP-ribosyltransferase PARP9 {ECO:0000305};
-MSTRG.6537;-277.116.374.715.269;Apolipoprotein A-IV {ECO:0000250|UniProtKB:P06727}; Apolipoprotein A-I
-MSTRG.16356;-445.248.238.333.446;Protein mono-ADP-ribosyltransferase PARP9 {ECO:0000305}; O-acetyl-ADP-ribose deacetylase {ECO:0000255|HAMAP-Rule:MF_01205}
-MSTRG.14881;158.271.535.362.484;Transforming growth factor beta-3 proprotein;
+Differential gene expression between limnetic (positive log2FoldChange) and benthic (negative log2FoldChange) body shape types within CL Xiloá;;;;;;;;
+gene_id;baseMean;log2FoldChange;lfcSE;stat;pvalue;padj;annotation;
+MSTRG.16363;739.814.657.683.965;-244.620.716.963.411;300.332.331.233.408;-814.500.110.456.975;3,79E-02;3,31E+02;Protein mono-ADP-ribosyltransferase PARP9 {ECO:0000305};
+MSTRG.6537;502.163.082.866.628;-277.116.374.715.269;0.571546741440465;-484.853.389.272.861;1,24E+08;0.00112239775590765;Apolipoprotein A-IV {ECO:0000250|UniProtKB:P06727}; Apolipoprotein A-I
+MSTRG.16356;563.816.114.827.944;-445.248.238.333.446;0.93641818290018;-475.480.128.925.378;1,99E+08;0.00146458051143611;Protein mono-ADP-ribosyltransferase PARP9 {ECO:0000305}; O-acetyl-ADP-ribose deacetylase {ECO:0000255|HAMAP-Rule:MF_01205}
+MSTRG.14881;312.616.791.052.165;158.271.535.362.484;0.382143926388378;414.167.344.901.436;3,45E+09;0.00930197791364541;Transforming growth factor beta-3 proprotein;

@@ -1,10 +1,11 @@
-gene_id;log2FoldChange;annotation;;;;;
-MSTRG.53362;-372.610.802.180.943;NACHT, LRR and PYD domains-containing protein 12; Ribonuclease inhibitor; NACHT, LRR and PYD domains-containing protein 14; NACHT, LRR and PYD domains-containing protein 5; NACHT, LRR and PYD domains-containing protein 9; NLR family CARD domain-containing protein 3
-MSTRG.2851;292.502.807.577.939;Hexokinase-1 {ECO:0000305}; Hexokinase HKDC1 {ECO:0000305};;;;
-MSTRG.29095;-157.057.879.131.778;Collectin-11; Mannose-binding protein {ECO:0000305}; Mannose-binding protein C;;;
-MSTRG.7469;-740.215.311.662.584;C-X-C motif chemokine 10; C-X-C motif chemokine 13;;;;
-MSTRG.27515;-239.813.087.263.398;WAP four-disulfide core domain protein 18;;;;;
-MSTRG.7668;-370.088.326.698.802;Platelet basic protein; C-X-C motif chemokine 9;;;;
-MSTRG.6413;-129.021.386.638.114;Calcium-dependent serine proteinase; Complement C1s subcomponent;;;;
-MSTRG.32675;-190.031.121.687.192;Immunoglobulin kappa constant {ECO:0000250|UniProtKB:P01834};;;;;
-MSTRG.37735;-138.854.398.218.977;Galactose-specific lectin nattectin; Type-2 ice-structuring protein {ECO:0000305}; C-type lectin domain family 4 member K; Ladderlectin;;
+Differential gene expression between A. chancho (positive log2FoldChange) and A. zaliosus (negative log2FoldChange) from CL Apoyo;;;;;;;;;;;;
+gene_id;baseMean;log2FoldChange;lfcSE;stat;pvalue;padj;annotation;;;;;
+MSTRG.53362;23.596.095.931.948;-372.610.802.180.943;0.509347787079743;-73.154.495.147.067;2,57E+01;1,17E+05;NACHT, LRR and PYD domains-containing protein 12; Ribonuclease inhibitor; NACHT, LRR and PYD domains-containing protein 14; NACHT, LRR and PYD domains-containing protein 5; NACHT, LRR and PYD domains-containing protein 9; NLR family CARD domain-containing protein 3
+MSTRG.2851;993.906.963.863.799;292.502.807.577.939;0.524484033850008;557.696.304.748.885;2,45E+06;2,12E+09;Hexokinase-1 {ECO:0000305}; Hexokinase HKDC1 {ECO:0000305};;;;
+MSTRG.29095;480.003.096.360.574;-157.057.879.131.778;0.294139360666924;-533.957.368.968.466;9,32E+06;7,06E+08;Collectin-11; Mannose-binding protein {ECO:0000305}; Mannose-binding protein C;;;
+MSTRG.7469;118.335.353.068.931;-740.215.311.662.584;147.304.796.248.437;-502.505.913.259.045;5,03E+07;0.000261502958337502;C-X-C motif chemokine 10; C-X-C motif chemokine 13;;;;
+MSTRG.27515;721.883.960.037.038;-239.813.087.263.398;0.484259650025211;-495.215.918.259.787;7,34E+07;0.00035125075285204;WAP four-disulfide core domain protein 18;;;;;
+MSTRG.7668;287.065.359.144.011;-370.088.326.698.802;0.848297332594202;-436.271.944.374.768;1,28E+07;0.00343543251265697;Platelet basic protein; C-X-C motif chemokine 9;;;;
+MSTRG.6413;520.968.558.325.867;-129.021.386.638.114;0.303853048703001;-424.617.713.032.147;2,17E+08;0.00506990121070459;Calcium-dependent serine proteinase; Complement C1s subcomponent;;;;
+MSTRG.32675;437.629.131.788.465;-190.031.121.687.192;0.464548758358621;-409.066.041.546.692;4,30E+08;0.00869182833351038;Immunoglobulin kappa constant {ECO:0000250|UniProtKB:P01834};;;;;
+MSTRG.37735;100.545.904.876.385;-138.854.398.218.977;0.342318249828392;-405.629.551.706.888;4,99E+08;0.00936849839598505;Galactose-specific lectin nattectin; Type-2 ice-structuring protein {ECO:0000305}; C-type lectin domain family 4 member K; Ladderlectin;;
